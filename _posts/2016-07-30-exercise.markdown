@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Test example!"
-date:   2016-07-30 08:00:00 +0900
-categories: 
----
-What should I do if I want to use UTF-8 ?
