@@ -10,11 +10,11 @@ encoding: utf-8
 title: Next Generation Scoop
 email: io2oi@yahoo.co.kr
 description: > # this means to ignore newlines until "baseurl:"
-  Next Generation Scoop
+  병철이의 떠먹여주는 생명과학
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://io2oi.github.io" # the base hostname & protocol for your site
-twitter_username: io2oi
 github_username:  io2oi
+facebook: io2oi
 
 # Build settings
 markdown: kramdown
