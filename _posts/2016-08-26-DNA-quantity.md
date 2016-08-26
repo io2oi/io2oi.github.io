@@ -35,7 +35,7 @@ $$
 = 3.08 \text{pg}
 $$
 
-![그림](../assets/2016-08-26-math.png)
+![그림](https://github.com/io2oi/io2oi.github.io/blob/master/assets/2016-08-26-math.png)
 즉 1ng의 DNA 를 가지고 있다고 하면 대략 333 개의 genome을 가지고 있다고 볼 수 있다.
 
 [^1]:"John M. Butler, Forensic DNA Typing: Biology, Technology, and Genetics of STR Markers. Academic Press, Feb 8. 2005, p.56"
