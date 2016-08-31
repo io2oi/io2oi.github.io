@@ -20,4 +20,6 @@ facebook: io2oi
 markdown: kramdown
 highlighter: rouge
 
+kramdown:
+  input: GFM
 
