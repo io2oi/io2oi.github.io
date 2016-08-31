@@ -15,5 +15,9 @@ __이것은__
 
 [연결을하자][my github]
 
+수식
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$
 
 [my github]: http://io2oi.github.io
