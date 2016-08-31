@@ -17,25 +17,15 @@ title:  "DNA의 양은 얼마나 되는가?"
 - AT 쌍: 617 g/mol
 - GC 쌍: 618 g/mol
 
-하나의 유전체는 총 22쌍의 상염색체와 1쌍의 성염색체로 이루어지고 대략적으로 3 x 10^9^ 염기쌍 (bp) 이다.
+하나의 유전체는 총 22쌍의 상염색체와 1쌍의 성염색체로 이루어지고 대략적으로 $$ 3 x 10^9 $$ 염기쌍 (bp) 이다.
 
 그렇다면 위의 정보들을 이용하여 대략적으로 계산해 보자
 1개의 세포안에 들어가는 염기쌍은, 즉 1 genome (diploid의 경우)에는 
 
-$$ 3 \times 10^9 \text{bp} \\
-\rightarrow 3 \times 10^9 \text{bp/genome} \times 618 \text{g/mol/bp} \\
-= 1854 \times 10^9 \text{g/mol/genome}
-$$
+![formular1](https://latex.codecogs.com/gif.latex?3%20%5Ctimes%2010%5E9%20%5Ctext%7Bbp%7D%20%5C%5C%20%5Crightarrow%203%20%5Ctimes%2010%5E9%20%5Ctext%7Bbp/genome%7D%20%5Ctimes%20618%20%5Ctext%7Bg/mol/bp%7D%20%5C%5C%20%3D%201854%20%5Ctimes%2010%5E9%20%5Ctext%7Bg/mol/genome%7D)
 
-$$
-1854 \times 10^9 \text{g/mol/genome} \times 1\text{mol}/6.02 \times 10^{23} \text{genome} \\
-= 308 \times 10^{-14} \text{g} \\
-= 308 \times 10^{-14} \text{g} \times 10^{12} \text{pg/g} \\
-= 308 \times 0.01 \text{pg} \\
-= 3.08 \text{pg}
-$$
+![formular2](https://latex.codecogs.com/gif.latex?1854%20%5Ctimes%2010%5E9%20%5Ctext%7Bg/mol/genome%7D%20%5Ctimes%201%5Ctext%7Bmol%7D/6.02%20%5Ctimes%2010%5E%7B23%7D%20%5Ctext%7Bgenome%7D%20%5C%5C%20%3D%20308%20%5Ctimes%2010%5E%7B-14%7D%20%5Ctext%7Bg%7D%20%5C%5C%20%3D%20308%20%5Ctimes%2010%5E%7B-14%7D%20%5Ctext%7Bg%7D%20%5Ctimes%2010%5E%7B12%7D%20%5Ctext%7Bpg/g%7D%20%5C%5C%20%3D%20308%20%5Ctimes%200.01%20%5Ctext%7Bpg%7D%20%5C%5C%20%3D%203.08%20%5Ctext%7Bpg%7D)
 
-![그림](https://github.com/io2oi/io2oi.github.io/blob/master/assets/2016-08-26-math.png)
 즉 1ng의 DNA 를 가지고 있다고 하면 대략 333 개의 genome을 가지고 있다고 볼 수 있다.
 
 [^1]:"John M. Butler, Forensic DNA Typing: Biology, Technology, and Genetics of STR Markers. Academic Press, Feb 8. 2005, p.56"
