@@ -26,4 +26,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 ### test
-![image-loading](../img/posts/jekyll/1.png)
+![image-loading]({{site.url}}/img/posts/jekyll/1.png)
