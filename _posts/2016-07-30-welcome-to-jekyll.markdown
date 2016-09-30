@@ -26,4 +26,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
 ### test
+* 그림을 넣고 싶으면 {% raw %} `{{site.url}}/<path to img>/filename` {% endraw %}
 ![image-loading]({{site.url}}/img/posts/jekyll/1.png)
