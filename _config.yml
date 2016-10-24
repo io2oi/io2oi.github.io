@@ -22,4 +22,6 @@ highlighter: rouge
 
 kramdown:
   input: GFM
-
+  
+paginate: 5
+paginate_path: "/blog/page:num/"
